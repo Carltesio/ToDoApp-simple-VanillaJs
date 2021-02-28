@@ -1,0 +1,57 @@
+html {
+    background-color:rgb(247, 243, 243);
+    text-align: center;
+    align-items: center;
+}
+
+form {
+    /* background-color: white; */
+}
+
+
+.main{
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input{
+    font-family: 'Work Sans', sans-serif;
+    height: 90px;
+    width: 500px;
+    outline: 0;
+    border: none;
+    font-size: 2rem;
+}
+
+.todoList{
+    width: 500x;
+    padding: 10px;
+    border-style: outset;
+}
+
+button{
+    background-color: white;
+    border: none;
+    font-size: 1.5rem;
+}
+
+button .fa fa-circle{
+    padding-left: 2rem;
+}
+
+i {
+    pointer-events: none;
+}
+
+ul{
+   padding-left: 0px; 
+   list-style: none;
+}
+
+li{
+color:black
+}
